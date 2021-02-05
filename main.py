@@ -1,1 +1,7 @@
-#WRITE YOUR CODE IN THIS FILE
+def length3(x,y,z):
+    return len(x)+len(y)+len(z)
+    
+
+print(length3("Big","Bang","Theory"))
+
+
